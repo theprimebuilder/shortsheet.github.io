@@ -1,2 +1,2 @@
-# shortsheet.io
+# shortsheet.github.io
 Short sheet app
