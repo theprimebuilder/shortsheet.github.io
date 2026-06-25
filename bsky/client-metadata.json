@@ -1,5 +1,5 @@
 {
-  "client_id": "https://github.com/theprimebuilder/shortsheet.github.io/bsky/client-metadata.json",
+  "client_id": "https://theprimebuilder.github.io/shortsheet.github.io/bsky/client-metadata.json",
   "client_name": "Short sheet",
   "client_uri": "https://github.com/theprimebuilder/shortsheet.github.io",
   "redirect_uris": ["http://localhost:8080/callback"],
