@@ -2,7 +2,7 @@
   "client_id": "https://theprimebuilder.github.io/shortsheet.github.io/bsky/client-metadata.json",
   "client_name": "Short Sheet",
   "client_uri": "https://theprimebuilder.github.io/shortsheet.github.io",
-  "redirect_uris": ["http://localhost:8080/callback"],
+  "redirect_uris": ["https://preorder-turban-chirpy.ngrok-free.dev/callback"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "scope": "atproto",
